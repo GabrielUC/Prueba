@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Git Hub</title>
+</head>
+<body>
+	<h1>Esto es un ejemplo del uso de git hub</h1>
+
+	<form>
+		<legend>Informacion Personal:</legend>
+            
+             Nombre:<br>
+            <input type="text"><br>
+            Apellido:<br>
+            <input type="text"><br><br>
+            <input type="submit" value="Enviar">
+            
+        </fieldset>
+    </form>
+
+</body>
+</html>
